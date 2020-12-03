@@ -1,0 +1,27 @@
+[
+  {
+    "name": "Cleveland Kennedy",
+    "sex": "MAN",
+    "phone": "+7 (839) 489-3675"
+  },
+  {
+    "name": "Mathews Huff",
+    "sex": "WOMAN",
+    "phone": "+7 (804) 435-2221"
+  },
+  {
+    "name": "Ola Hood",
+    "sex": "WOMAN",
+    "phone": "+7 (842) 415-2916"
+  },
+  {
+    "name": "Leon Burns",
+    "sex": "UNKNOWN",
+    "phone": "+7 (918) 409-3698"
+  },
+  {
+    "name": "Frieda Nixon",
+    "sex": "UNKNOWN",
+    "phone": "+7 (826) 551-3840"
+  }
+]
